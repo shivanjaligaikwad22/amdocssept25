@@ -1,3 +1,2 @@
 big data analysis
-hadoop architecture
 kafka-zookeeper
